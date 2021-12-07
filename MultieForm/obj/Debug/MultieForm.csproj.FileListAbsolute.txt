@@ -1,0 +1,11 @@
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\bin\Debug\MultieForm.exe.config
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\bin\Debug\MultieForm.exe
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\bin\Debug\MultieForm.pdb
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\obj\Debug\MultieForm.csproj.AssemblyReference.cache
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\obj\Debug\MultieForm.Form1.resources
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\obj\Debug\MultieForm.Form2.resources
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\obj\Debug\MultieForm.Properties.Resources.resources
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\obj\Debug\MultieForm.csproj.GenerateResource.cache
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\obj\Debug\MultieForm.csproj.CoreCompileInputs.cache
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\obj\Debug\MultieForm.exe
+C:\Users\GOD\source\repos\C-SHARP-Compile\MultieForm\obj\Debug\MultieForm.pdb
